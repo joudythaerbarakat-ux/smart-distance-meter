@@ -52,7 +52,6 @@ A standalone distance meter using an HC-SR04 ultrasonic sensor and Arduino Uno, 
 ```
 smart-distance-meter/
 ├── distance_meter.ino     # Main Arduino firmware
-├── cad/                   # SolidWorks enclosure files
 ├── docs/
 │   └── photos/            # Build photos
 └── README.md
